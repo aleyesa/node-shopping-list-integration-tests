@@ -33,7 +33,7 @@ describe("Recipes", function() {
   });
 
   // test strategy:
-  //   1. make request to `/shopping-list`
+  //   1. make request to `/recipes`
   //   2. inspect response object and prove has right code and have
   //   right keys in response object.
   it("should list recipes on GET", function() {
