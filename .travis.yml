@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: j5pqRt/6s3nHlKicLJcMdOELQVaGL/OEQn/v2MoKuC4ic3uwnip3+tFXp1kpmbllmzwUKI8WR3CYABN7REAhCwxkJI5jzTA8kp2oYnuFM78yg7Ch3vZUih1KXmBm54r8zRkJJwsoytOZain5yGSclAGv9rEsaRMiImE7G9xx826PWTE3RQ+K3t8B95JkT8sJul0GIp2mnEd/ASSbTuRlzpCEIFqiLUI35xUZo+pPNXV+zFTJZo3s7HG7xM3IF4pQFzNvWQR/ppH/aR6u7IpZy/RzsNuaauJ6OYiGoTk9yJ6odJHttLcAXUvcVNAtzpR6urSMkjVcU3bxzTVfQbYmIaJsVW3gBOhzrbNbjZT07tuu0a3f18idkiHHlb2eGSJdiwmgzGGCxjS6iYuS5zvuAcAsbioJ42aAnrlmvFRVx6cmgpBR/DMeJ+pnKckd8+HK2qeQPT8dbYLwFlTwdPXN9+y1y9HK/XvN3xJasG/1Yd18ph7pm6Pm9oahNsAvjqJbDhAOtxPH5n0ERLT5iir3Lcaqqh4O7HlQQetciylb7VfVzdNEi5Vo5iDR3ghJ/eRzjoqX13OII82MKms+oNB0ZbxcHbApZxjpSG+a+AMyJOx2Nia12L7dyuxt/UgkjbFi5c3Gfnp4dsDmiDABFohaMo0fnwwcyzTtDGSL2hp6oBI=
-  app: calm-lowlands-94284
+  app: https://calm-lowlands-94284.herokuapp.com/ | https://git.heroku.com/calm-lowlands-94284.git
   on:
     repo: aleyesa/node-shopping-list-integration-tests
