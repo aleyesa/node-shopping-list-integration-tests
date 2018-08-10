@@ -25,7 +25,7 @@ var recipeTemplate =
   "</div>";
 
 // var serverBase = "//localhost:8080/";
-var serverBase = "https://calm-lowlands-94284.herokuapp.com"
+var serverBase = "https://calm-lowlands-94284.herokuapp.com/"
 var RECIPES_URL = serverBase + "recipes";
 var SHOPPING_LIST_URL = serverBase + "shopping-list";
 
